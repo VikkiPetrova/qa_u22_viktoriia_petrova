@@ -1,0 +1,193 @@
+journalctl -b-1
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: Linux version 5.19>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: Command line: BOOT>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: KERNEL supported c>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   Intel GenuineInt>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   AMD AuthenticAMD
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   Hygon HygonGenui>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   Centaur CentaurH>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   zhaoxin   Shangh>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: Supportin>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: Supportin>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: Supportin>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: xstate_of>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: Enabled x>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: signal: max sigfra>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-provided phys>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x>
+lines 1-23...skipping...
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: Linux version 5.19.0-32-generic (buildd@lcy02-amd64-026) (x86_64-linux-gnu-gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0, GNU ld (GNU Binutils for Ubun>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: Command line: BOOT_IMAGE=/boot/vmlinuz-5.19.0-32-generic root=UUID=62aa392d-0f90-4345-957b-08bbc9649850 ro quiet splash pcie_asmp=force vt.handoff=7
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: KERNEL supported cpus:
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   Intel GenuineIntel
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   AMD AuthenticAMD
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   Hygon HygonGenuine
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   Centaur CentaurHauls
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   zhaoxin   Shanghai  
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: Enabled xstate features 0x7, context size is 832 bytes, using 'compacted' format.
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: signal: max sigframe size: 1776
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-provided physical RAM map:
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x0000000000000000-0x000000000009ffff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000000a0000-0x00000000000fffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x0000000000100000-0x0000000009d1efff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x0000000009d1f000-0x0000000009ffffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x000000000a000000-0x000000000a1fffff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x000000000a200000-0x000000000a20cfff] ACPI NVS
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x000000000a20d000-0x00000000eab3dfff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000eab3e000-0x00000000ec052fff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ec053000-0x00000000ec053fff] ACPI data
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ec054000-0x00000000ec054fff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ec055000-0x00000000ec0adfff] ACPI data
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ec0ae000-0x00000000ec39efff] ACPI NVS
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ec39f000-0x00000000ecbfefff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ecbff000-0x00000000edffffff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ee000000-0x00000000f7ffffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000fd000000-0x00000000ffffffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x0000000100000000-0x00000003ef33ffff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000003ef340000-0x00000004301fffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: NX (Execute Disable) protection: active
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: e820: update [mem 0xe70a5018-0xe70b3057] usable ==> usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: e820: update [mem 0xe70a5018-0xe70b3057] usable ==> usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: e820: update [mem 0xe7097018-0xe70a4457] usable ==> usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: e820: update [mem 0xe7097018-0xe70a4457] usable ==> usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: extended physical RAM map:
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x0000000000000000-0x000000000009ffff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000000a0000-0x00000000000fffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x0000000000100000-0x0000000009d1efff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x0000000009d1f000-0x0000000009ffffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x000000000a000000-0x000000000a1fffff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x000000000a200000-0x000000000a20cfff] ACPI NVS
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x000000000a20d000-0x00000000e7097017] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000e7097018-0x00000000e70a4457] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000e70a4458-0x00000000e70a5017] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000e70a5018-0x00000000e70b3057] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000e70b3058-0x00000000eab3dfff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000eab3e000-0x00000000ec052fff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000ec053000-0x00000000ec053fff] ACPI data
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000ec054000-0x00000000ec054fff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000ec055000-0x00000000ec0adfff] ACPI data
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000ec0ae000-0x00000000ec39efff] ACPI NVS
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000ec39f000-0x00000000ecbfefff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000ecbff000-0x00000000edffffff] usable
+lines 1-57
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: Linux version 5.19.0-32-generic (buildd@lcy02-amd64-026) (x86_64-linux-gnu-gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0, GNU ld (GNU Binutils fo>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: Command line: BOOT_IMAGE=/boot/vmlinuz-5.19.0-32-generic root=UUID=62aa392d-0f90-4345-957b-08bbc9649850 ro quiet splash pcie_asmp=force vt.ha>
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: KERNEL supported cpus:
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   Intel GenuineIntel
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   AMD AuthenticAMD
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   Hygon HygonGenuine
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   Centaur CentaurHauls
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel:   zhaoxin   Shanghai  
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: x86/fpu: Enabled xstate features 0x7, context size is 832 bytes, using 'compacted' format.
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: signal: max sigframe size: 1776
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-provided physical RAM map:
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x0000000000000000-0x000000000009ffff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000000a0000-0x00000000000fffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x0000000000100000-0x0000000009d1efff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x0000000009d1f000-0x0000000009ffffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x000000000a000000-0x000000000a1fffff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x000000000a200000-0x000000000a20cfff] ACPI NVS
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x000000000a20d000-0x00000000eab3dfff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000eab3e000-0x00000000ec052fff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ec053000-0x00000000ec053fff] ACPI data
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ec054000-0x00000000ec054fff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ec055000-0x00000000ec0adfff] ACPI data
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ec0ae000-0x00000000ec39efff] ACPI NVS
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ec39f000-0x00000000ecbfefff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ecbff000-0x00000000edffffff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000ee000000-0x00000000f7ffffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000000fd000000-0x00000000ffffffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x0000000100000000-0x00000003ef33ffff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: BIOS-e820: [mem 0x00000003ef340000-0x00000004301fffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: NX (Execute Disable) protection: active
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: e820: update [mem 0xe70a5018-0xe70b3057] usable ==> usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: e820: update [mem 0xe70a5018-0xe70b3057] usable ==> usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: e820: update [mem 0xe7097018-0xe70a4457] usable ==> usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: e820: update [mem 0xe7097018-0xe70a4457] usable ==> usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: extended physical RAM map:
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x0000000000000000-0x000000000009ffff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000000a0000-0x00000000000fffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x0000000000100000-0x0000000009d1efff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x0000000009d1f000-0x0000000009ffffff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x000000000a000000-0x000000000a1fffff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x000000000a200000-0x000000000a20cfff] ACPI NVS
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x000000000a20d000-0x00000000e7097017] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000e7097018-0x00000000e70a4457] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000e70a4458-0x00000000e70a5017] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000e70a5018-0x00000000e70b3057] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000e70b3058-0x00000000eab3dfff] usable
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000eab3e000-0x00000000ec052fff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000ec053000-0x00000000ec053fff] ACPI data
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000ec054000-0x00000000ec054fff] reserved
+фев 27 14:47:28 vikkipetrova-ROG-Strix-G513IM-G513IM kernel: reserve setup_data: [mem 0x00000000ec055000-0x00000000ec0adfff] ACPI data
+lines 1-54
